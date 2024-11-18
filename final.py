@@ -15,7 +15,7 @@ from openpyxl.styles import Font, Alignment, PatternFill
 
 # Initialize the recognizer and text-to-speech engine
 recognizer = sr.Recognizer()
-engine = pyttsx3.init(driverName='espeak-ng')
+engine = pyttsx3.init(driverName='espeak')
 
 # Function to speak text
 def speak(text):

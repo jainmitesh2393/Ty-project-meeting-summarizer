@@ -39,9 +39,9 @@ pydeck==0.9.1
 Pygments==2.18.0
 pypiwin32==223
 python-dateutil==2.9.0.post0
-pyttsx3==2.98
-pytz==2024.2
-pywin32==308
+pyttsx3
+pytz
+pywin32
 referencing==0.35.1
 requests==2.32.3
 rich==13.9.4

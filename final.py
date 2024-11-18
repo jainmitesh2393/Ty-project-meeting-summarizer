@@ -463,4 +463,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    import os
+    os.system("streamlit run final.py --server.port 8502")
